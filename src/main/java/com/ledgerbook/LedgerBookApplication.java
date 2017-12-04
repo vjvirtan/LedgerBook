@@ -9,4 +9,5 @@ public class LedgerBookApplication {
 	public static void main(String[] args) {
 		SpringApplication.run(LedgerBookApplication.class, args);
 	}
+
 }
